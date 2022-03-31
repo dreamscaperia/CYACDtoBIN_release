@@ -1,8 +1,8 @@
-#CYACD/2 to BIN Tool
+# CYACD/2 to BIN Tool
 
 A simple tool converting bootloadable CYACD/2 to BIN.
 
-##Note:
+## Note:
 
 This tool requires .Net Framework (>= 3.5).
 
